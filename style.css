@@ -6,6 +6,7 @@
     background-color: rgb(228, 209, 212);
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 .flower-Section-one{
     width: 400px;
@@ -16,4 +17,40 @@
     background-color:pink ;
     color: white;
     padding:15px 20px;
+    margin-top: 20px;
 }
+.feature-flower{
+    font-size: 30px;
+    
+}
+.featured-flowers-container{
+    background-color: antiquewhite;
+    padding: 30px;
+    text-align: center;
+}
+.three-flower-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.flower3a{
+  border-radius:50px 50px 3px 3px;
+  background: #73AD21;
+  padding: 20px; 
+  width: 200px;
+  height: 400px; 
+}
+.flower3b{
+    border-radius:50px 50px 3px 3px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 400px; 
+  }
+  .flower3c{
+    border-radius:50px 50px 3px 3px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 400px; 
+  }
