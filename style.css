@@ -117,7 +117,6 @@
 }
 .latest-deal-container {
    padding: 200px;
-  border: 1px solid red;
   background-image: url("imges/Rectanglebg.png");
   display: flex;
   justify-content: center;
@@ -125,8 +124,7 @@
   background-repeat: no-repeat;
   background-size: cover; 
   background-position: center;
-  border-radius: 5px;
-  margin: 200px 250px;
+  margin: 100px;
 }
 .latest-deal-info{
   font-size: 18px;
