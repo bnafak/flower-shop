@@ -1,110 +1,123 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
-.beautiful-flower-container{
-    background-color: rgb(255, 241, 241);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+.beautiful-flower-container {
+  background-color: rgb(255, 241, 241);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-.flower-Section-one{
-    width: 400px;
-    height: 490px;
-    border-radius: 35px;
+.flower-Section-one {
+  width: 400px;
+  height: 490px;
+  border-radius: 35px;
 }
-.descripton-beautiful-flower{
-    color: rgb(158, 156, 156);
+.descripton-beautiful-flower {
+  color: rgb(158, 156, 156);
 }
-.heading-one{
-    margin-bottom: 20px;
-    font-size: 60px;
-    color: black;
+.heading-one {
+  margin-bottom: 20px;
+  font-size: 60px;
+  color: black;
 }
-.btn{
-    background-color:rgb(215, 97, 101) ;
-    color: rgb(255, 255, 255);
-    border-radius: 5px;
-    margin-top: 20px;
-    padding: 15px 20px;
-    border: none;
+.btn {
+  background-color: rgb(215, 97, 101);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 15px 20px;
+  border: none;
 }
-.feature-flower{
-    font-size: 30px;
-    padding: 20px;
-    }
-.featured-flowers-container{
-    /* background-color: antiquewhite; */
-    padding: 30px;
-    text-align: center;
+.feature-flower {
+  font-size: 30px;
+  padding: 20px;
 }
-.three-flower-container{
-    display: flex;
-    justify-content: space-around;
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
+.featured-flowers-container {
+  /* background-color: antiquewhite; */
+  padding: 30px;
+  text-align: center;
 }
-.pink-flower{
-    text-align: center;
-    margin-top: 30px;
+.three-flower-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
 }
-.flower3a{
-  border-radius:200px 200px 3px 3px;
+.pink-flower {
+  text-align: center;
+  margin-top: 30px;
+}
+.flower3a {
+  border-radius: 200px 200px 3px 3px;
   background: #eec4e3;
   width: 300px;
   height: 350px;
   padding: 40px 40px 0px 40px;
 }
-.flower3b{
-    border-radius:200px 200px 3px 3px;
+.flower3b {
+  border-radius: 200px 200px 3px 3px;
   background: #deeef1;
   width: 300px;
   height: 350px;
   padding: 40px 40px 0px 40px;
-  }
-  .flower3c{
-    border-radius:200px 200px 3px 3px;
+}
+.flower3c {
+  border-radius: 200px 200px 3px 3px;
   background: #e0e2ee;
   width: 300px;
   height: 350px;
   padding: 40px 40px 0px 40px;
-  }
-.hot-deal-container{
-    border: lightpink;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
 }
-.hot-deal-title{
-    font-size: 30px;
-    margin-bottom: 30px;
+.hot-deal-container {
+  border: lightpink;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
-.h1volor{
+.hot-deal-title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.h1volor {
+  color: red;
+}
+
+.hot-deat-descrptn {
+}
+.instagram-container {
+  text-align: center;
+}
+.instagram-title {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.instagram-description {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.photo-gallery-container {
+  display: flex;
+  justify-content: space-around;
+}
+.latest-deal-container {
+  width: 80%;
+  background-image: url("imges/Rectanglebg.png");
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+ margin-bottom: 40px; 
+}
+.ftr{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.flower-spn{
     color: red;
 }
-
-.hot-deat-descrptn{
-
-}
-.instagram-container{
-    text-align: center;
-}
-.instagram-title{
-    font-size: 30px;
-    margin-bottom: 30px;
-}
-.instagram-description{
-    font-size: 30px;
-    margin-bottom: 30px;
-}
-.photo-gallery-container{
-    display: flex;
-    justify-content: space-around;
-}
-.latest-deal-container{
-background-image: url("imges/Rectanglebg.png");
-display: flex;
-justify-content: center;
-
+.Shop-spn{
+    color: #deeef1;
 }
