@@ -75,11 +75,12 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
+  align-items: center;
   margin-bottom: 20px;
 }
 
 .add-pic {
-  border-radius: 5px;
+  border-radius: 5px solid black;
 }
 
 .hot-deal-container {
@@ -115,16 +116,20 @@
   justify-content: space-around;
 }
 .latest-deal-container {
-  /* width: 80%; */
+   padding: 200px;
+  border: 1px solid red;
   background-image: url("imges/Rectanglebg.png");
   display: flex;
   justify-content: center;
   align-items: center;
-  margin: 40px 20px;
   background-repeat: no-repeat;
-  background-size: cover;
-  height: 400px;
-  width: 1400px;
+  background-size: cover; 
+  background-position: center;
+  border-radius: 5px;
+  margin: 250px 300px;
+}
+.latest-deal-info{
+  font-size: 18px;
 }
 .ftr {
   background-color: black;
